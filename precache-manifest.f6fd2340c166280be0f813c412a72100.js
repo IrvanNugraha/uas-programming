@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "da32dec279c08383bed1cbb779804b30",
+    "revision": "6d70cb0eab70ee0e9cc159445c65a3ff",
     "url": "/uas-programming/index.html"
   },
   {
-    "revision": "63f864e539c047792431",
-    "url": "/uas-programming/static/css/main.a5788ecf.chunk.css"
+    "revision": "d60ebc333cf92607740f",
+    "url": "/uas-programming/static/css/main.913294e2.chunk.css"
   },
   {
     "revision": "152bb874679685f0bb78",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/uas-programming/static/js/2.f7257774.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "63f864e539c047792431",
+    "revision": "d60ebc333cf92607740f",
     "url": "/uas-programming/static/js/main.f44e3b7e.chunk.js"
   },
   {

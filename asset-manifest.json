@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/uas-programming/static/css/main.a5788ecf.chunk.css",
+    "main.css": "/uas-programming/static/css/main.913294e2.chunk.css",
     "main.js": "/uas-programming/static/js/main.f44e3b7e.chunk.js",
     "main.js.map": "/uas-programming/static/js/main.f44e3b7e.chunk.js.map",
     "runtime-main.js": "/uas-programming/static/js/runtime-main.a6b174bd.js",
@@ -8,9 +8,9 @@
     "static/js/2.f7257774.chunk.js": "/uas-programming/static/js/2.f7257774.chunk.js",
     "static/js/2.f7257774.chunk.js.map": "/uas-programming/static/js/2.f7257774.chunk.js.map",
     "index.html": "/uas-programming/index.html",
-    "precache-manifest.f4067234511a3aa17481ebd50ed2a6a6.js": "/uas-programming/precache-manifest.f4067234511a3aa17481ebd50ed2a6a6.js",
+    "precache-manifest.f6fd2340c166280be0f813c412a72100.js": "/uas-programming/precache-manifest.f6fd2340c166280be0f813c412a72100.js",
     "service-worker.js": "/uas-programming/service-worker.js",
-    "static/css/main.a5788ecf.chunk.css.map": "/uas-programming/static/css/main.a5788ecf.chunk.css.map",
+    "static/css/main.913294e2.chunk.css.map": "/uas-programming/static/css/main.913294e2.chunk.css.map",
     "static/js/2.f7257774.chunk.js.LICENSE.txt": "/uas-programming/static/js/2.f7257774.chunk.js.LICENSE.txt",
     "static/media/Slide1.png": "/uas-programming/static/media/Slide1.8b82f258.png",
     "static/media/Slide2.png": "/uas-programming/static/media/Slide2.3f2ba51d.png",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.a6b174bd.js",
     "static/js/2.f7257774.chunk.js",
-    "static/css/main.a5788ecf.chunk.css",
+    "static/css/main.913294e2.chunk.css",
     "static/js/main.f44e3b7e.chunk.js"
   ]
 }
