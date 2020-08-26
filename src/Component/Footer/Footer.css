@@ -39,3 +39,9 @@
     margin: 3px;
     padding-bottom: 1px;
 }
+
+@media screen and (max-width:720px){
+    .wrap-footer{
+        width: 100%;
+    }
+}
