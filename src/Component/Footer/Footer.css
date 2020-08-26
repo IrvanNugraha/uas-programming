@@ -1,0 +1,41 @@
+.wrap-footer{
+    width: 100%;
+    position: absolute;
+    background: #00C9C8;
+    height: 70px;
+    margin-top: 20px;
+}
+
+.copy-text{
+    bottom: 1px;
+    width: max-content;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.wrap-icons{
+    position: absolute;
+    left: 50%;
+    bottom: 40px;
+    transform: translate(-50%);
+    width: max-content;
+    height: max-content;
+    margin: auto;
+    padding: 0px;
+}
+
+.bg-icons{
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 18px;
+    height: 18px;
+    border-radius: 20px;
+    background: white;
+}
+
+.fa{
+    margin: 3px;
+    padding-bottom: 1px;
+}

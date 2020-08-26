@@ -1,0 +1,19 @@
+.card-ctg{
+    margin: 10px;
+    background: #BFFCF9;
+    display: inline-block;
+    height: 60px;
+    width: 210px;
+    border-radius: 10px;
+}
+
+.title-ctg{
+    position: relative;
+    top: 15px;
+    left: 70px;
+    font-size: 18px;
+}
+
+.choosing{
+    text-decoration: none;
+}
