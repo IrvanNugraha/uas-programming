@@ -60,7 +60,7 @@
     top: 115px;
 }
 
-@media screen and (max-width:720px){
+@media screen and (max-width:860px){
     .wep{
         width: 280px;
         height: max-content;
