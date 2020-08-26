@@ -1,7 +1,7 @@
 import React, {Component,Fragment} from 'react';
 import Hero from '../../Component/Hero/Hero';
 import './Home.css';
-import Content_Home from './Content_Home/Content_Home';
+import ContentHome from './Content_Home/Content_Home';
 
 
 
@@ -21,7 +21,7 @@ class Home extends Component{
                         {/* Hero */}
                         <Hero />
                     </div>
-                    
+                
                     <hr/>
 
                     <div className="conta">
@@ -36,7 +36,7 @@ class Home extends Component{
                     <hr/>
 
                     <div className="conta">
-                        <Content_Home />
+                        <ContentHome />
                     </div>
 
                     <hr/>
