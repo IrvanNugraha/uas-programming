@@ -73,7 +73,7 @@
 @media screen and (max-width:960px){
     .logo{
         position: relative;
-        left: 5px;     
+        left: 0px;     
     }
 
     .navi-bar{
